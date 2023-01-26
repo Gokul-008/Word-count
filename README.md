@@ -18,6 +18,7 @@ add the length of the list to the count for each line
 ### Step 6: 
 print the count
 ## PROGRAM:
+```
 write a program for getting the word count from a text.
 Developed by: Gokul.M
 RegisterNumber: 22009089
@@ -29,6 +30,7 @@ for line in f:
     wc=wc+len(word)
 print("word count is:",wc)
 f.close()
+```
 
 
 ### OUTPUT:
