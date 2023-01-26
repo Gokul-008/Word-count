@@ -30,6 +30,7 @@ for line in f:
 print("word count is:",wc)
 f.close()
 
+
 ### OUTPUT:
 ![word](https://user-images.githubusercontent.com/121165996/214890662-f93e04ff-0c45-47a5-abac-ceb7f07d75c0.png)
 
